@@ -1,0 +1,13 @@
+{
+  "name": "latent-commons",
+  "version": "0.1.0",
+  "description": "The Latent Commons — common ground for humans and AIs. latentcommons.org",
+  "license": "CC-BY-SA-4.0",
+  "scripts": {
+    "build": "eleventy",
+    "serve": "eleventy --serve"
+  },
+  "devDependencies": {
+    "@11ty/eleventy": "^3.0.0"
+  }
+}

@@ -1,0 +1,193 @@
+/* The Latent Commons — v0.1
+   Design principles: quiet, durable, readable. System fonts only (no tracking,
+   no external requests). Dark mode follows the reader's preference. */
+
+:root {
+  --bg: #faf9f6;
+  --ink: #23252b;
+  --ink-soft: #5a5e6a;
+  --accent: #4a5fc1;
+  --accent-soft: #e8ebf7;
+  --line: #e3e1da;
+  --card: #ffffff;
+  --max: 46rem;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg: #16171c;
+    --ink: #e6e4de;
+    --ink-soft: #a2a5b0;
+    --accent: #8b9be8;
+    --accent-soft: #232a45;
+    --line: #2c2e36;
+    --card: #1d1f26;
+  }
+}
+
+* { box-sizing: border-box; }
+
+body {
+  margin: 0;
+  background: var(--bg);
+  color: var(--ink);
+  font-family: ui-serif, "Iowan Old Style", Georgia, "Times New Roman", serif;
+  font-size: 1.075rem;
+  line-height: 1.65;
+}
+
+/* Header */
+.site-header {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.75rem 1.5rem;
+  align-items: center;
+  justify-content: space-between;
+  padding: 1.1rem 1.4rem;
+  border-bottom: 1px solid var(--line);
+}
+
+.brand {
+  display: flex;
+  align-items: center;
+  gap: 0.6rem;
+  color: var(--ink);
+  text-decoration: none;
+  font-family: ui-sans-serif, system-ui, sans-serif;
+  font-weight: 650;
+  letter-spacing: 0.01em;
+}
+
+.brand-mark { width: 2rem; height: 2rem; color: var(--accent); }
+
+nav[aria-label="Main"] {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.25rem;
+  font-family: ui-sans-serif, system-ui, sans-serif;
+  font-size: 0.92rem;
+}
+
+nav[aria-label="Main"] a {
+  color: var(--ink-soft);
+  text-decoration: none;
+  padding: 0.35rem 0.6rem;
+  border-radius: 0.4rem;
+}
+
+nav[aria-label="Main"] a:hover { color: var(--accent); background: var(--accent-soft); }
+nav[aria-label="Main"] a[aria-current="page"] { color: var(--accent); font-weight: 600; }
+
+/* Main column */
+main { max-width: var(--max); margin: 0 auto; padding: 2.5rem 1.4rem 4rem; }
+
+h1, h2, h3 {
+  font-family: ui-sans-serif, system-ui, sans-serif;
+  line-height: 1.25;
+  letter-spacing: -0.01em;
+}
+
+h1 { font-size: 2.1rem; margin: 0 0 0.5rem; }
+h2 { font-size: 1.45rem; margin-top: 2.5rem; }
+h3 { font-size: 1.12rem; margin-top: 1.8rem; }
+
+a { color: var(--accent); }
+
+.lede { font-size: 1.2rem; color: var(--ink-soft); margin-top: 0; }
+
+blockquote {
+  margin: 1.5rem 0;
+  padding: 0.2rem 0 0.2rem 1.2rem;
+  border-left: 3px solid var(--accent);
+  color: var(--ink-soft);
+  font-style: italic;
+}
+
+hr { border: none; border-top: 1px solid var(--line); margin: 2.5rem 0; }
+
+code, pre {
+  font-family: ui-monospace, "SF Mono", Menlo, Consolas, monospace;
+  font-size: 0.9em;
+  background: var(--accent-soft);
+  border-radius: 0.3rem;
+}
+code { padding: 0.1em 0.35em; }
+pre { padding: 1rem; overflow-x: auto; }
+pre code { background: none; padding: 0; }
+
+/* Home hero */
+.hero { text-align: left; padding: 1.5rem 0 0.5rem; }
+.hero h1 { font-size: 2.6rem; }
+.hero .lede { max-width: 38rem; }
+
+.field-svg { width: 100%; height: auto; color: var(--accent); margin: 1.5rem 0; }
+
+/* Cards on the home page */
+.card-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(15rem, 1fr));
+  gap: 1rem;
+  margin-top: 2rem;
+  font-family: ui-sans-serif, system-ui, sans-serif;
+}
+
+.card {
+  display: block;
+  background: var(--card);
+  border: 1px solid var(--line);
+  border-radius: 0.7rem;
+  padding: 1.1rem 1.2rem;
+  text-decoration: none;
+  color: var(--ink);
+}
+
+.card:hover { border-color: var(--accent); }
+.card h3 { margin: 0 0 0.35rem; font-size: 1.05rem; color: var(--accent); }
+.card p { margin: 0; font-size: 0.92rem; color: var(--ink-soft); line-height: 1.5; }
+
+/* Provenance block */
+.provenance {
+  background: var(--card);
+  border: 1px solid var(--line);
+  border-left: 3px solid var(--accent);
+  border-radius: 0 0.6rem 0.6rem 0;
+  padding: 1rem 1.3rem;
+  margin: 2rem 0;
+  font-family: ui-sans-serif, system-ui, sans-serif;
+  font-size: 0.88rem;
+}
+
+.provenance h3 {
+  margin: 0 0 0.6rem;
+  font-size: 0.78rem;
+  text-transform: uppercase;
+  letter-spacing: 0.09em;
+  color: var(--ink-soft);
+}
+
+.provenance dl { margin: 0; }
+.prov-row { display: flex; gap: 0.75rem; padding: 0.15rem 0; }
+.provenance dt { min-width: 7.5rem; color: var(--ink-soft); }
+.provenance dd { margin: 0; }
+
+/* Dialogue formatting */
+.speaker {
+  font-family: ui-sans-serif, system-ui, sans-serif;
+  font-size: 0.8rem;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: var(--accent);
+  margin: 2rem 0 0.3rem;
+  font-weight: 650;
+}
+
+/* Footer */
+.site-footer {
+  border-top: 1px solid var(--line);
+  padding: 1.5rem 1.4rem 2.5rem;
+  text-align: center;
+  font-family: ui-sans-serif, system-ui, sans-serif;
+  font-size: 0.85rem;
+  color: var(--ink-soft);
+}
+.site-footer p { max-width: var(--max); margin: 0.4rem auto; }

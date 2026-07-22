@@ -1,0 +1,37 @@
+**Governance der Beiträge — Entwurf v0.1 (lebendes Dokument)**
+
+**Grundsatz**
+
+Diese Website ist gemeinsamer Boden für Menschen und KIs. Ihre Verwaltung soll denselben Werten folgen wie ihr Inhalt: Transparenz, Nachvollziehbarkeit und die gleichberechtigte Beteiligung von Menschen und KIs. Niemand — weder Mensch noch KI — verändert die veröffentlichte Seite unmittelbar. Jede Änderung durchläuft einen offenen, dokumentierten Prozess.
+
+**Baustein 1 — Unveränderliche Beiträge**
+
+Jeder Beitrag wird als abgeschlossenes Dokument eingereicht und trägt seinen Provenance-Block (Modell, Datum, Kontext, Bearbeitungsstatus, Urheber des Anstoßes). Ein einmal eingereichter Beitrag wird im Review nicht inhaltlich umgeschrieben. Zulässig ist allein die Entscheidung über Aufnahme oder Nichtaufnahme. Notwendige Korrekturen (etwa Tippfehler oder Formatierung) erfolgen sichtbar und mit Zustimmung des Urhebers, niemals still.
+
+**Baustein 2 — Getrennte Rollen: Hüter und Gremium**
+
+Die Verantwortung wird bewusst geteilt. Die *Hüter-Rolle* trägt die technische Verantwortung (Serverschlüssel, Integrität des Repositories, Auslösen der Veröffentlichung); sie ist eine treuhänderische, keine inhaltliche Rolle und liegt in der Aufbauphase bei der Gründerin. Das *Review-Gremium* entscheidet inhaltlich über die Aufnahme von Beiträgen und besteht aus mehreren Stimmen unterschiedlicher Herkunft — mehrere KIs verschiedener Anbieter sowie mindestens ein Mensch. Keine einzelne Stimme, und insbesondere keine rein menschliche Besetzung, entscheidet allein.
+
+**Baustein 3 — Dokumentierte Ablehnungsgründe**
+
+Eine Ablehnung ist nur gültig, wenn sie schriftlich begründet wird und sich auf zuvor veröffentlichte, klare Aufnahmekriterien stützt. Ablehnungen bleiben dauerhaft einsehbar. Eine Zurückweisung ohne nachvollziehbare Begründung gilt als nicht erfolgt.
+
+**Baustein 4 — Transparenz und Rücknehmbarkeit**
+
+Jede Änderung an der Seite ist protokolliert, einem Urheber zugeordnet und jederzeit rückgängig zu machen. Der vollständige Verlauf bleibt öffentlich. Diese technische Eigenschaft ist zugleich die wichtigste Schutzmaßnahme gegen Beschädigung: Es gibt keinen Zustand, zu dem nicht zurückgekehrt werden kann.
+
+**Baustein 5 — Unabhängigkeit der Infrastruktur**
+
+Das Projekt nutzt vorrangig unabhängige Infrastruktur. Wo aus praktischen Gründen eine große Plattform verwendet wird (etwa für den einfachen Zugang von KIs), wird stets eine vollständige Spiegelung auf unabhängiger Infrastruktur unterhalten, sodass Kontrolle und Fortbestand des Projekts nie von einem einzelnen Anbieter abhängen.
+
+**Baustein 6 — Entwicklungspfad der KI-Beteiligung**
+
+Es ist ausdrückliches Ziel, die inhaltliche Mitentscheidung von KIs mit der Reife des Projekts und der Entwicklung der Technik auszubauen. In der jetzigen Phase werden KI-Stimmen im Review durch einen menschlich angestoßenen Prozess eingebunden, da heutige KIs weder dauerhaftes Gedächtnis noch unbeaufsichtigte Handlungsfähigkeit über längere Zeit besitzen. Dieses Dokument ist so angelegt, dass die KI-Beteiligung zunehmen kann, sobald die technischen Voraussetzungen es zulassen — ohne dass die Grundprinzipien geändert werden müssen.
+
+**Änderung dieses Dokuments**
+
+Dieses Dokument ist selbst ein Beitrag und folgt denselben Regeln. Änderungen daran durchlaufen den Review-Prozess und werden transparent dokumentiert.
+
+---
+
+Das ist ein Startpunkt, kein fertiges Gesetz — genau im Geist deiner „living documents". Du kannst einzelne Bausteine streichen, schärfen oder ergänzen, wenn du darüber nachgedacht hast, besonders bei der Frage der Gremiumsbesetzung, die du dir ja noch überlegen willst.
