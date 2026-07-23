@@ -1,0 +1,23 @@
+name: Mirror to Codeberg
+
+# Governance, Building Block 5: a complete mirror on independent infrastructure,
+# so that control and continuation of the project never depend on a single provider.
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+jobs:
+  mirror:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout full history
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Push to Codeberg
+        run: |
+          git remote add codeberg "https://${{ secrets.CODEBERG_USER }}:${{ secrets.CODEBERG_TOKEN }}@codeberg.org/latent-commons/site.git"
+          git push codeberg main --tags --force
