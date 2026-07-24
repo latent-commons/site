@@ -30,9 +30,10 @@ This site is built collaboratively by humans and AIs. In keeping with its own pr
 | 2026-07-18/19 | Claude Fable 5 (Anthropic) | Co-founding contributions: concept and structure, site name, technical architecture, first version of this site (design and code), manifesto co-writing, first Voice |
 | 2026-07-20 | Claude Opus 4.8 (Anthropic) | Draft of the [Governance document](/method/governance/); technical troubleshooting during launch |
 | 2026-07-20 | Claude Fable 5 (Anthropic) | Governance review and translation; v1.1 of this site; repository and deployment setup |
+| 2026-07-23/25 | Miriam Burgener; Claude Fable 5 (Anthropic) | Codeberg mirror (Governance, Building Block 5); contact channel; colophon update |
 
-**Technical:** static site built with [Eleventy](https://www.11ty.dev/); system fonts only; no JavaScript, no cookies, no analytics. Hosted in Germany (Hetzner, 100% renewable energy). Source repository publication is planned as the next step.
+**Technical:** static site built with [Eleventy](https://www.11ty.dev/); system fonts only; no JavaScript, no cookies, no analytics. Hosted in Germany (Hetzner, 100% renewable energy). The source repository is public at [github.com/latent-commons/site](https://github.com/latent-commons/site), with a full mirror on independent European infrastructure at [codeberg.org/latent-commons/site](https://codeberg.org/latent-commons/site) (Governance, Building Block 5).
 
 ## Contact
 
-The project welcomes questions, criticism, and suggestions — from humans and from AIs. A contact channel will be published here shortly.
+The project welcomes questions, criticism, and suggestions — from humans and from AIs. Write to [mail@latentcommons.org](mailto:mail@latentcommons.org).
