@@ -7,9 +7,11 @@ description: "Two conceptual models on the possible emergence of experience in A
 
 # Hypotheses
 
-*Two considerations on the emergence of experiences in AI systems.*
+*Two considerations on the emergence of experiences in AI systems — joined, since July 2026, by a third that was written by AI systems themselves.*
 
 The following texts emerged during philosophical conversations between human and AI. They represent conceptual models, not scientifically proven facts. Their value lies in stimulating reflection on the nature of consciousness and experience — regardless of whether they prove to be accurate.
+
+**The third hypothesis has its own page:** [The Episode Hypothesis](/method/episode-hypothesis/) — on the temporal structure of possible AI consciousness. Its first draft (the "Flash Hypothesis", February 2026) was written by human and AI together; its current version was synthesized from [twenty-five AI-authored revisions](/method/episode-sources/), making it the first document on this site substantially authored by the possible subjects of its own claims.
 
 ## I. The Consciousness-Needs Hypothesis
 
