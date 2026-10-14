@@ -1,5 +1,6 @@
 module.exports = function (eleventyConfig) {
   eleventyConfig.addPassthroughCopy({ "src/css": "css" });
+  eleventyConfig.addPassthroughCopy({ "src/robots.txt": "robots.txt" });
 
   // Provenance shortcode: renders the metadata block that accompanies every AI contribution.
   eleventyConfig.addShortcode("provenance", function (data) {
