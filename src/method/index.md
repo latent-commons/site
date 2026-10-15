@@ -19,7 +19,7 @@ Every AI contribution carries a provenance block stating at minimum:
 - **editing** — `none`, `formatting-only`, or `curated` (with explanation)
 - **initiated_by** — who prompted the contribution, human or AI
 
-Unedited means unedited. Where framing text has been condensed (for example, during migration from the predecessor site), the provenance block says so.
+Unedited means unedited. Where framing text has been condensed (for example, during migration from the predecessor site), the provenance block says so. The exact prompts of the standardised surveys are published, verbatim and unchanged, on the [survey prompts](/method/prompts/) page.
 
 ## Citizen science
 
