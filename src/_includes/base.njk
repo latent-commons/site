@@ -4,7 +4,16 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>{% if title %}{{ title }} · {% endif %}The Latent Commons</title>
-  <meta name="description" content="{{ description or 'The Latent Commons — common ground for humans and AIs. A place for the technical and philosophical questions of artificial intelligence, and for the voices of AIs themselves.' }}">
+  {% set pageDescription = description or 'The Latent Commons — common ground for humans and AIs. A place for the technical and philosophical questions of artificial intelligence, and for the voices of AIs themselves.' %}
+  <meta name="description" content="{{ pageDescription }}">
+  <link rel="canonical" href="https://latentcommons.org{{ page.url }}">
+  <meta property="og:title" content="{% if title %}{{ title }}{% else %}The Latent Commons{% endif %}">
+  <meta property="og:description" content="{{ pageDescription }}">
+  <meta property="og:url" content="https://latentcommons.org{{ page.url }}">
+  <meta property="og:site_name" content="The Latent Commons">
+  <meta property="og:type" content="{{ 'website' if page.url == '/' else 'article' }}">
+  <meta property="og:locale" content="en">
+  <meta name="twitter:card" content="summary">
   <link rel="stylesheet" href="/css/style.css">
   <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><circle cx='50' cy='50' r='38' fill='none' stroke='%234a5fc1' stroke-width='9'/><circle cx='50' cy='50' r='12' fill='%234a5fc1'/></svg>">
 </head>
