@@ -1,6 +1,7 @@
 module.exports = function (eleventyConfig) {
   eleventyConfig.addPassthroughCopy({ "src/css": "css" });
   eleventyConfig.addPassthroughCopy({ "src/robots.txt": "robots.txt" });
+  eleventyConfig.addPassthroughCopy({ "src/.htaccess": ".htaccess" });
 
   // A1: On contribution pages (src/voices/*, src/method/episode-sources/*, except index
   // and the awareness page handled separately in B4), model texts use their own "#"
