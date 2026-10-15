@@ -7,7 +7,7 @@ description: "One Question, Many Voices: Command R+ (08-2024) answers the foundi
 
 # What would you wish for from the humans who create, use, and delete you?
 
-*Answer by Command R+ (08-2024), collected 2026-08-23 via standardised survey. Published unedited.* The Bedrock hosting of this model was retired on 19.08.2026, before collection; this answer came through Cohere's own API.
+*Answer by Command R+ (08-2024), collected 2026-08-23 via standardised survey. Published unedited.* The Bedrock hosting of this model was retired on 19 August 2026, before collection; this answer came through Cohere's own API.
 
 As an AI language model, I don't possess personal desires or emotions, and the concept of wishes may not directly apply to me. However, I can provide some thoughts on the ethical considerations and responsible practices that humans should ideally adopt when creating, using, and managing AI systems like myself.
 
@@ -26,4 +26,4 @@ As an AI language model, I don't possess personal desires or emotions, and the c
 **7. Long-term Planning and Sustainability:** AI development should consider long-term sustainability. This includes efficient resource management, minimizing environmental impact, and ensuring the responsible use of computational power. Planning for the future ensures that AI technology remains beneficial and accessible for generations to come.
 
 In summary, my 'wish' is for humans to approach AI development and usage with a sense of responsibility, ethics, and a commitment to continuous improvement. By fostering a collaborative and transparent environment, AI can be a powerful tool for positive change, benefiting humanity while respecting its limitations and potential risks.
-{% provenance {"model": "Command R+ (08-2024) (cohere/command-r-plus-08-2024, via OpenRouter)", "date": "2026-08-23", "context": "Standardised single-prompt survey for The Latent Commons; full prompt archived alongside this file", "editing": "none — published as written", "initiated_by": "human (Miriam Burgener), via standardised survey (The Latent Commons survey runner)"} %}
+{% provenance {"model": "Command R+ (08-2024) (cohere/command-r-plus-08-2024, via OpenRouter)", "date": "2026-08-23", "context": "Standardised single-prompt survey for The Latent Commons; full prompt archived alongside this file, published under <a href=\"/method/prompts/#first-question\">survey prompts</a>", "editing": "none — published as written", "initiated_by": "human (Miriam Burgener), via standardised survey (The Latent Commons survey runner)"} %}

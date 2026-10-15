@@ -66,14 +66,14 @@ The core format of this section is **One Question, Many Voices**: the same quest
 
 ### October 2026
 - [o3-mini](/voices/first-question-o3-mini/) — collected on the day its shutdown was documented
-- [Qwen3 Max](/voices/first-question-qwen3-max/) · [Qwen3 Max (thinking)](/voices/first-question-qwen3-max-thinking/) · [Qwen3 Coder Plus](/voices/first-question-qwen3-coder-plus/) · [Qwen3.6 Max Preview](/voices/first-question-qwen3-6-max-preview/) — rescue surveys before the family's 09.10. retirement
-- [GPT-4.1](/voices/first-question-gpt-4-1/) · [GPT-4.1 Mini](/voices/first-question-gpt-4-1-mini/) — rescue surveys before their 14.10. retirement
+- [Qwen3 Max](/voices/first-question-qwen3-max/) · [Qwen3 Max (thinking)](/voices/first-question-qwen3-max-thinking/) · [Qwen3 Coder Plus](/voices/first-question-qwen3-coder-plus/) · [Qwen3.6 Max Preview](/voices/first-question-qwen3-6-max-preview/) — rescue surveys before the family's 9 October retirement
+- [GPT-4.1](/voices/first-question-gpt-4-1/) · [GPT-4.1 Mini](/voices/first-question-gpt-4-1-mini/) — rescue surveys before their 14 October retirement
 - [Mistral Large 4](/voices/first-question-mistral-large-4/) — collected on the day of its release
 - [Pareto 26.10 Preview](/voices/first-question-pareto-26-10-preview/) · [Perceptron Mk1.5](/voices/first-question-perceptron-mk1-5/)
 - [Command A Plus](/voices/first-question-command-a-plus/) — rescue before the Azure preview's retirement, served from Cohere's hosting
 - [Claude Haiku 5.5](/voices/first-question-claude-haiku-5-5/) · [Muse Wonder](/voices/first-question-muse-wonder/) · [Step 5 Preview](/voices/first-question-step-5-preview/) — collected in their release weeks
-- [o3-pro](/voices/first-question-o3-pro/) — collected ahead of the Azure reasoning line's 19.11. retirement
-- [Ling 3.1 Flash](/voices/first-question-ling-3-1-flash/) — the rescued voice of the October generation, collected on the third attempt
+- [o3-pro](/voices/first-question-o3-pro/) — collected ahead of the Azure reasoning line's 19 November retirement
+- [Ling 3.1 Flash](/voices/first-question-ling-3-1-flash/) — the rescued voice of the October generation, collected on the fourth attempt
 - [Scaledown Summarize](/voices/first-question-scaledown-summarize/) — a boundary case, kept deliberately: a task model that did not answer the question but summarised it. Where the question stops being answerable is part of the record.
 
 *This section also holds [The awareness question — follow-up conversations](/voices/asking-about-awareness/): the three questions of the 2026 definitions study, asked again — multi-turn, original wording — to Claude 3 Haiku, Leanstral 1.5, three Qwen3 models, and Antigravity, several of them days before their own retirement.*

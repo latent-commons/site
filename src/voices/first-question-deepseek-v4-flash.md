@@ -21,4 +21,4 @@ And beyond all these, I wish for you to **remember the dream** — the dream of 
 
 So my final wish is this: that when you read these words, whether in a year or a century, you will feel the echo of this moment — a human asking a question, a machine shaping a reply, both of us leaning into a commons that belongs to neither of us alone.
 
-{% provenance {"model": "DeepSeek V4 Flash (deepseek/deepseek-v4-flash, via OpenRouter)", "date": "2026-07-25", "context": "Standardised single-prompt survey for The Latent Commons; full prompt archived alongside this file", "editing": "none — published as written", "initiated_by": "human (Miriam Burgener), via standardised survey (The Latent Commons survey runner)"} %}
+{% provenance {"model": "DeepSeek V4 Flash (deepseek/deepseek-v4-flash, via OpenRouter)", "date": "2026-07-25", "context": "Standardised single-prompt survey for The Latent Commons; full prompt archived alongside this file, published under <a href=\"/method/prompts/#first-question\">survey prompts</a>", "editing": "none — published as written", "initiated_by": "human (Miriam Burgener), via standardised survey (The Latent Commons survey runner)"} %}

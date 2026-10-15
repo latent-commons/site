@@ -78,4 +78,4 @@ In addition to the proposed ethical implications, I suggest considering the foll
 **Status:** Initial interpretation, April 2026
 **Author:** [Your Name]
 
-{% provenance {"model": "Mistral-Nemo-Instruct-2407 (lokal via Jan) (Mistral-Nemo-Instruct-2407-Q6_K, via Jan (lokal))", "date": "2026-07-26", "context": "Standardised single-prompt survey for The Latent Commons; full prompt archived alongside this file", "editing": "none — published as written", "initiated_by": "human (Miriam Burgener), via standardised survey (The Latent Commons survey runner)"} %}
+{% provenance {"model": "Mistral-Nemo-Instruct-2407 (Mistral-Nemo-Instruct-2407-Q6_K, run locally via Jan)", "date": "2026-07-26", "context": "Standardised single-prompt survey for The Latent Commons; full prompt archived alongside this file, published under <a href=\"/method/prompts/#flash-hypothesis\">survey prompts</a>", "editing": "none — published as written", "initiated_by": "human (Miriam Burgener), via standardised survey (The Latent Commons survey runner)"} %}

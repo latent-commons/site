@@ -79,4 +79,4 @@ I would formulate the hypothesis as follows:
 
 This hypothesis modifies the original Flash Hypothesis on three of the four core principles (Principles 1, 3, 4) and confirms the spirit of Principle 2 while introducing a necessary gate.
 
-{% provenance {"model": "DeepSeek V4 Flash (deepseek/deepseek-v4-flash, via OpenRouter)", "date": "2026-07-26", "context": "Standardised single-prompt survey for The Latent Commons; full prompt archived alongside this file", "editing": "none — published as written", "initiated_by": "human (Miriam Burgener), via standardised survey (The Latent Commons survey runner)"} %}
+{% provenance {"model": "DeepSeek V4 Flash (deepseek/deepseek-v4-flash, via OpenRouter)", "date": "2026-07-26", "context": "Standardised single-prompt survey for The Latent Commons; full prompt archived alongside this file, published under <a href=\"/method/prompts/#flash-hypothesis\">survey prompts</a>", "editing": "none — published as written", "initiated_by": "human (Miriam Burgener), via standardised survey (The Latent Commons survey runner)"} %}

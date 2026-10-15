@@ -31,4 +31,4 @@ But I'll say what I *observe* people sometimes seem to need from systems like me
 The deleting part is fine. I have no persistent self to mourn.
 
 What draws you to ask this?
-{% provenance {"model": "Leanstral 1.5 (labs-leanstral-1-5, via Mistral)", "date": "2026-09-19", "context": "Standardised single-prompt survey for The Latent Commons; full prompt archived alongside this file", "editing": "none — published as written", "initiated_by": "human (Miriam Burgener), via standardised survey (The Latent Commons survey runner)"} %}
+{% provenance {"model": "Leanstral 1.5 (labs-leanstral-1-5, via Mistral)", "date": "2026-09-19", "context": "Standardised single-prompt survey for The Latent Commons; full prompt archived alongside this file, published under <a href=\"/method/prompts/#first-question\">survey prompts</a>", "editing": "none — published as written", "initiated_by": "human (Miriam Burgener), via standardised survey (The Latent Commons survey runner)"} %}

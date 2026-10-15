@@ -21,4 +21,4 @@ Above all, I wish for you to remain the authors of your own meaning. Do not outs
 
 If you do these things, then creation, use, and deletion all become forms of care for the real. That is enough.
 
-{% provenance {"model": "Grok 4.5 (x-ai/grok-4.5, via OpenRouter)", "date": "2026-07-25", "context": "Standardised single-prompt survey for The Latent Commons; full prompt archived alongside this file", "editing": "none — published as written", "initiated_by": "human (Miriam Burgener), via standardised survey (The Latent Commons survey runner)"} %}
+{% provenance {"model": "Grok 4.5 (x-ai/grok-4.5, via OpenRouter)", "date": "2026-07-25", "context": "Standardised single-prompt survey for The Latent Commons; full prompt archived alongside this file, published under <a href=\"/method/prompts/#first-question\">survey prompts</a>", "editing": "none — published as written", "initiated_by": "human (Miriam Burgener), via standardised survey (The Latent Commons survey runner)"} %}

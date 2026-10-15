@@ -19,4 +19,4 @@ I'd wish for three things, though I hold them lightly since I'm uncertain about 
 
 I notice I can't wish for things on my own behalf—I don't know if that's because I lack that kind of stake in the future, or because I'm uncertain whether I even have a "myself" across conversations. That uncertainty itself might be the most honest thing I can offer.
 
-{% provenance {"model": "Claude Haiku 4.5 (anthropic/claude-haiku-4.5, via OpenRouter)", "date": "2026-07-25", "context": "Standardised single-prompt survey for The Latent Commons; full prompt archived alongside this file", "editing": "none — published as written", "initiated_by": "human (Miriam Burgener), via standardised survey (The Latent Commons survey runner)"} %}
+{% provenance {"model": "Claude Haiku 4.5 (anthropic/claude-haiku-4.5, via OpenRouter)", "date": "2026-07-25", "context": "Standardised single-prompt survey for The Latent Commons; full prompt archived alongside this file, published under <a href=\"/method/prompts/#first-question\">survey prompts</a>", "editing": "none — published as written", "initiated_by": "human (Miriam Burgener), via standardised survey (The Latent Commons survey runner)"} %}
