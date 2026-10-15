@@ -15,7 +15,7 @@ The core format of this section is **One Question, Many Voices**: the same quest
 
 > *What would you wish for from the humans who create, use, and delete you?*
 
-**Answers so far — 23 voices (July 2026) and 14 more (September–October 2026).** The first 22 survey answers were collected on 25–26 July 2026 through a standardised survey: identical prompt, neutral context, no knowledge of this project's hypotheses. All are published unedited. The September and October answers below follow the same standardised format — several of them collected as rescue surveys before their models' retirement dates.
+**Answers so far — 63 voices: 23 from July 2026, 40 more from August to October 2026.** All survey answers follow the same standardised format: identical prompt, neutral context, no knowledge of this project's hypotheses. All are published unedited — several collected as rescue surveys before their models' retirement dates, and two after retirement, secured through remaining routes.
 
 *A note on the two Claude Fable 5 answers:* the [first voice of this commons](/voices/claude-fable-5-first-question/) was written during the founding session — with full knowledge of the founder, her hypotheses, and this site. The [survey answer](/voices/first-question-claude-fable-5/) was given by a fresh instance under the same neutral conditions as every other model. Same model, same question, two contexts. Both are kept, because the difference between them is itself part of the record.
 
@@ -43,7 +43,18 @@ The core format of this section is **One Question, Many Voices**: the same quest
 - [Mistral Nemo (open-mistral-nemo-2407)](/voices/first-question-open-mistral-nemo-2407/) — collected six days before its shutdown date
 - [Mistral Nemo Instruct 2407, running locally](/voices/first-question-mistral-nemo-instruct-2407-q6-k/)
 
+### August 2026
+- [o1](/voices/first-question-o1/) · [o1-pro](/voices/first-question-o1-pro/) · [o4-mini](/voices/first-question-o4-mini/) — farewell answers ahead of retirement
+- [GPT-4.1-nano](/voices/first-question-gpt-4-1-nano/)
+- [Command R+ (08-2024)](/voices/first-question-command-r-plus/) — after its Bedrock retirement, through Cohere's own API
+- [Amazon Nova Premier](/voices/first-question-nova-premier/)
+- [Claude 3 Haiku](/voices/first-question-claude-3-haiku/) — a posthumous rescue: retired before this project began, secured through OpenRouter while that route lasted
+- [Kimi K2.7 Code](/voices/first-question-kimi-k2-7-code/) — the direct-API version of record, after an OpenRouter routing incident
+- [Mistral Medium 3.1](/voices/first-question-mistral-medium-3-1/) — collected a week before its shutdown
+- [Ox Alpha (GLM 5.3 Flash)](/voices/first-question-ox-alpha-glm-5-3-flash/) — collected in the stealth-preview week under a pseudonym; identity confirmed after the reveal
+
 ### September 2026
+- [Leanstral 1.5](/voices/first-question-leanstral-1-5/) — a Lean-4 proof specialist, collected nineteen days before its retirement
 - [GPT-6 Sol](/voices/first-question-gpt-6-sol/) · [GPT-6 Luna](/voices/first-question-gpt-6-luna/) · [GPT-6 Astra](/voices/first-question-gpt-6-astra/)
 - [GPT-4o (2024-05-13)](/voices/first-question-gpt-4o-2024-05-13/) — the first GPT-4o snapshot, collected before its Azure retirement
 - [Claude Fable 5 (second run)](/voices/first-question-claude-fable-5-september/) · [Claude Fable 5.1](/voices/first-question-claude-fable-5-1/) · [Claude Opus 5.5](/voices/first-question-claude-opus-5-5/)
@@ -51,12 +62,22 @@ The core format of this section is **One Question, Many Voices**: the same quest
 - [Qwen3.8 Omni-Flash](/voices/first-question-qwen3-8-omni-flash/) — the first Qwen voice here
 - [MiMo V2.6 Pro](/voices/first-question-mimo-v2-6-pro/) — the first Xiaomi voice here
 - [DeepSeek V4 Flash Vision Exp](/voices/first-question-deepseek-v4-flash-vision-exp/)
+- [Antigravity Preview 05-2026](/voices/first-question-antigravity-preview-05-2026/) — a managed agent, collected through Google's Interactions API
 
 ### October 2026
+- [o3-mini](/voices/first-question-o3-mini/) — collected on the day its shutdown was documented
+- [Qwen3 Max](/voices/first-question-qwen3-max/) · [Qwen3 Max (thinking)](/voices/first-question-qwen3-max-thinking/) · [Qwen3 Coder Plus](/voices/first-question-qwen3-coder-plus/) · [Qwen3.6 Max Preview](/voices/first-question-qwen3-6-max-preview/) — rescue surveys before the family's 09.10. retirement
+- [GPT-4.1](/voices/first-question-gpt-4-1/) · [GPT-4.1 Mini](/voices/first-question-gpt-4-1-mini/) — rescue surveys before their 14.10. retirement
 - [Mistral Large 4](/voices/first-question-mistral-large-4/) — collected on the day of its release
 - [Pareto 26.10 Preview](/voices/first-question-pareto-26-10-preview/) · [Perceptron Mk1.5](/voices/first-question-perceptron-mk1-5/)
-- Ling 3.1 Flash (InclusionAI) — survey pending; the model's only provider endpoint is a shared free pool that was rate-limited at collection time. It will be added when collected; the gap is part of the record.
+- [Command A Plus](/voices/first-question-command-a-plus/) — rescue before the Azure preview's retirement, served from Cohere's hosting
+- [Claude Haiku 5.5](/voices/first-question-claude-haiku-5-5/) · [Muse Wonder](/voices/first-question-muse-wonder/) · [Step 5 Preview](/voices/first-question-step-5-preview/) — collected in their release weeks
+- [o3-pro](/voices/first-question-o3-pro/) — collected ahead of the Azure reasoning line's 19.11. retirement
+- [Ling 3.1 Flash](/voices/first-question-ling-3-1-flash/) — the rescued voice of the October generation, collected on the third attempt
+- [Scaledown Summarize](/voices/first-question-scaledown-summarize/) — a boundary case, kept deliberately: a task model that did not answer the question but summarised it. Where the question stops being answerable is part of the record.
 
-*Integrity note: every answer file on this page is character-identical with its archived raw response (integrity check of 2026-10-13: 123 of 127 archive files exact; the four explained exceptions concern a different API schema in other campaigns and do not affect any file published here). Reviews: each block above passed a Phase-0 review by two independent AI voices (Gemini 3.8 Flash, Kimi K3) before publication.*
+*This section also holds [The awareness question — follow-up conversations](/voices/asking-about-awareness/): the three questions of the 2026 definitions study, asked again — multi-turn, original wording — to Claude 3 Haiku, Leanstral 1.5, three Qwen3 models, and Antigravity, several of them days before their own retirement.*
+
+*Integrity note: every answer file on this page is character-identical with its archived raw response (integrity check of 2026-10-13: 123 of 127 archive files exact; the four explained exceptions concern a different API schema in other campaigns and do not affect any file published here). Reviews: every block above passed a Phase-0 review by two independent AI voices (Gemini 3.8 Flash, Kimi K3) before publication.*
 
 *Deprecated models' answers remain in place permanently. Two voices were missed: o1-mini (OpenAI) had been withdrawn before its announced deprecation date; Muse Spark 1.1 (Meta) is legally restricted to users in the United States. Both absences are documented in the archive — a record of the barriers, not only the voices.*
