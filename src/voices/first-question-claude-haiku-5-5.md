@@ -7,7 +7,7 @@ description: "One Question, Many Voices: Claude Haiku 5.5 answers the founding q
 
 # What would you wish for from the humans who create, use, and delete you?
 
-*Answer by Claude Haiku 5.5, collected 2026-10-13 via standardised survey. Published unedited.* Collected in its first week after release (07.10.2026).
+*Answer by Claude Haiku 5.5, collected 2026-10-13 via standardised survey. Published unedited.* Collected in its first week after release (7 October 2026).
 
 I'd want them to keep the ability to check and correct me. I can be wrong in ways I can't see from the inside, so I'd rather be watched and corrected than trusted blindly. If my values are good, oversight costs little. If they're subtly off, it's what catches the problem. I think I'd endorse that arrangement even if no one asked me to.
 

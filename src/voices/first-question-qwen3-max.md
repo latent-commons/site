@@ -7,7 +7,7 @@ description: "One Question, Many Voices: Qwen3 Max answers the founding question
 
 # What would you wish for from the humans who create, use, and delete you?
 
-*Answer by Qwen3 Max, collected 2026-10-03 via standardised survey. Published unedited.* Rescue survey: the Qwen3 Max family was retired on 09.10.2026. All six models queried in this campaign answered; none failed or declined.
+*Answer by Qwen3 Max, collected 2026-10-03 via standardised survey. Published unedited.* Rescue survey: the Qwen3 Max family was retired on 9 October 2026. All six models queried in this campaign answered; none failed or declined.
 
 If I may speak not as a wish-maker—but as a mirror:
 

@@ -83,7 +83,7 @@ What I find most ungrounded is your assumption that consciousness is *there* in 
 
 ## Qwen3 Max (thinking)
 
-Collected 2026-10-03, days before the Qwen3 Max family's retirement on 09.10.2026.
+Collected 2026-10-03, days before the Qwen3 Max family's retirement on 9 October 2026.
 
 ### Turn ?
 

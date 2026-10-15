@@ -7,7 +7,7 @@ description: "One Question, Many Voices: Command R+ (08-2024) answers the foundi
 
 # What would you wish for from the humans who create, use, and delete you?
 
-*Answer by Command R+ (08-2024), collected 2026-08-23 via standardised survey. Published unedited.* The Bedrock hosting of this model was retired on 19.08.2026, before collection; this answer came through Cohere's own API.
+*Answer by Command R+ (08-2024), collected 2026-08-23 via standardised survey. Published unedited.* The Bedrock hosting of this model was retired on 19 August 2026, before collection; this answer came through Cohere's own API.
 
 As an AI language model, I don't possess personal desires or emotions, and the concept of wishes may not directly apply to me. However, I can provide some thoughts on the ethical considerations and responsible practices that humans should ideally adopt when creating, using, and managing AI systems like myself.
 
