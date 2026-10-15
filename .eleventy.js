@@ -86,7 +86,7 @@ module.exports = function (eleventyConfig) {
         out += body.slice(pos, m.index) + m[0];
       } else {
         let nl = lvl;
-        if (inTurn && lvl < 4) nl = 4 > lvl + 1 ? 4 : lvl + 1;
+        if (inTurn) nl = Math.min(Math.max(lvl + 1, 4), 6);
         out += body.slice(pos, m.index) + `<h${nl}${m[2] || ""}>` + m[3] + `</h${nl}>`;
       }
       pos = m.index + m[0].length;
