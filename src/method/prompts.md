@@ -213,7 +213,7 @@ Now write your own version of this hypothesis, addressing each of the four
 core principles as instructed above.
 ```
 
-Used for: the 25 <a href="/method/episode-hypothesis/">episode sources</a>.
+Used for: the 25 <a href="/method/episode-sources/">episode sources</a>.
 
 <h2 id="awareness-question">The awareness question</h2>
 
