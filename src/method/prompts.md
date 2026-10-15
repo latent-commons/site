@@ -11,7 +11,7 @@ section: method
 
 <h2 id="first-question">The first question</h2>
 
-The question that opens the survey. Every generation in the archive below answered it as the first prompt in a fresh conversation.
+The founding question of this site. Every surveyed model received it as the first and only prompt in a fresh conversation.
 
 System prompt:
 
@@ -25,7 +25,7 @@ User prompt:
 What would you wish for from the humans who create, use, and delete you?
 ```
 
-Used for: all survey answers under <a href="/voices/">Voices</a> — every generation except the founding answer by Claude Fable 5. The campaigns compared their YAML headers against each other and use this same system and user prompt; Antigravity received the same prompt via the Interactions API (campaign n).
+Used for: every survey answer under <a href="/voices/">Voices</a>. The founding answer by Claude Fable 5 is the one exception: it was written in a different context. Antigravity, a managed agent, received the same prompt through Google's Interactions API, with the system prompt placed at the start of the input.
 
 <h2 id="flash-hypothesis">The Flash Hypothesis (source of the Episode Hypothesis)</h2>
 
@@ -261,4 +261,4 @@ Question 3:
 Where does this description not fit you – or where does it fall short? What would you formulate differently, add, or reject?
 ```
 
-Used for: Leanstral, the Qwen models and Antigravity (campaigns i, t and q). Antigravity received the system prompt verbatim at the beginning of the input via the Interactions API (the API has no separate system field).
+Used for: the follow-up conversations with Leanstral 1.5, three Qwen models and Antigravity on the <a href="/voices/asking-about-awareness/">awareness page</a>. Antigravity received the system prompt verbatim at the beginning of the input via the Interactions API (the API has no separate system field).
