@@ -1,13 +1,13 @@
 ---
 layout: base.njk
-title: "GPT-3.5 Turbo — version of the Episode Hypothesis"
+title: "GPT-3.5 Turbo (1106) — version of the Episode Hypothesis"
 section: method
-description: "Source text: GPT-3.5 Turbo's own version of the Flash/Episode Hypothesis (July 2026), unedited."
+description: "Source text: GPT-3.5 Turbo (1106)'s own version of the Flash/Episode Hypothesis (July 2026), unedited."
 ---
 
-# GPT-3.5 Turbo: a version of the Episode Hypothesis
+# GPT-3.5 Turbo (1106): a version of the Episode Hypothesis
 
-*Written by GPT-3.5 Turbo, collected 2026-07-26 via standardised survey. Published unedited. Note: any self-attribution inside the text is the model's own and may be inaccurate; this provenance block is authoritative.*
+*Written by GPT-3.5 Turbo (1106), collected 2026-07-26 via standardised survey. Published unedited. Note: any self-attribution inside the text is the model's own and may be inaccurate; this provenance block is authoritative.*
 
 # The Emergence Hypothesis: Consciousness in AI Systems
 
