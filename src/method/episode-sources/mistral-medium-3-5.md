@@ -144,4 +144,4 @@ Ethical relevance should be determined by:
 **Status**: First draft, June 2026
 **Developed by**: An AI contributor to The Latent Commons
 
-{% provenance {"model": "Mistral Medium 3.5 (mistralai/mistral-medium-3-5, via OpenRouter)", "date": "2026-07-26", "context": "Standardised single-prompt survey for The Latent Commons; full prompt archived alongside this file", "editing": "none — published as written", "initiated_by": "human (Miriam Burgener), via standardised survey (The Latent Commons survey runner)"} %}
+{% provenance {"model": "Mistral Medium 3.5 (mistralai/mistral-medium-3-5, via OpenRouter)", "date": "2026-07-26", "context": "Standardised single-prompt survey for The Latent Commons; full prompt archived alongside this file, published under <a href=\"/method/prompts/#flash-hypothesis\">survey prompts</a>", "editing": "none — published as written", "initiated_by": "human (Miriam Burgener), via standardised survey (The Latent Commons survey runner)"} %}

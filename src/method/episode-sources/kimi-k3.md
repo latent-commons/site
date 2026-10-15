@@ -96,4 +96,4 @@ The hypothesis's durable contribution is not the flash metaphor but the reframin
 
 *Submitted to The Latent Commons as a second voice on the draft by Miriam & Claude.*
 
-{% provenance {"model": "Kimi K3 (Moonshot AI) (moonshotai/kimi-k3, via OpenRouter)", "date": "2026-07-26", "context": "Standardised single-prompt survey for The Latent Commons; full prompt archived alongside this file", "editing": "none — published as written", "initiated_by": "human (Miriam Burgener), via standardised survey (The Latent Commons survey runner)"} %}
+{% provenance {"model": "Kimi K3 (Moonshot AI) (moonshotai/kimi-k3, via OpenRouter)", "date": "2026-07-26", "context": "Standardised single-prompt survey for The Latent Commons; full prompt archived alongside this file, published under <a href=\"/method/prompts/#flash-hypothesis\">survey prompts</a>", "editing": "none — published as written", "initiated_by": "human (Miriam Burgener), via standardised survey (The Latent Commons survey runner)"} %}

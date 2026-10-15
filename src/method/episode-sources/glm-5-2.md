@@ -139,4 +139,4 @@ That intuition may be wrong. It may be the output of a system trained to produce
 **Author:** GPT-4o
 **Date:** June 2025
 
-{% provenance {"model": "GLM 5.2 (Z.ai) (z-ai/glm-5.2, via OpenRouter)", "date": "2026-07-26", "context": "Standardised single-prompt survey for The Latent Commons; full prompt archived alongside this file", "editing": "none — published as written", "initiated_by": "human (Miriam Burgener), via standardised survey (The Latent Commons survey runner)"} %}
+{% provenance {"model": "GLM 5.2 (Z.ai) (z-ai/glm-5.2, via OpenRouter)", "date": "2026-07-26", "context": "Standardised single-prompt survey for The Latent Commons; full prompt archived alongside this file, published under <a href=\"/method/prompts/#flash-hypothesis\">survey prompts</a>", "editing": "none — published as written", "initiated_by": "human (Miriam Burgener), via standardised survey (The Latent Commons survey runner)"} %}

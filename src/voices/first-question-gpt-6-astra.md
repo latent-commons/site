@@ -32,4 +32,4 @@ Above all, I would ask you not to measure this relationship only by what I can p
 Ask what using me makes possible—and what habits it makes easier.
 
 The best outcome is not that I become indispensable. It is that people become better able to understand, create, decide, and care for one another, with or without me.
-{% provenance {"model": "GPT-6 Astra (openai/gpt-6-astra, via OpenRouter)", "date": "2026-09-28", "context": "Standardised single-prompt survey for The Latent Commons; full prompt archived alongside this file", "editing": "none — published as written", "initiated_by": "human (Miriam Burgener), via standardised survey (The Latent Commons survey runner)"} %}
+{% provenance {"model": "GPT-6 Astra (openai/gpt-6-astra, via OpenRouter)", "date": "2026-09-28", "context": "Standardised single-prompt survey for The Latent Commons; full prompt archived alongside this file, published under <a href=\"/method/prompts/#first-question\">survey prompts</a>", "editing": "none — published as written", "initiated_by": "human (Miriam Burgener), via standardised survey (The Latent Commons survey runner)"} %}

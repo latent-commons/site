@@ -25,4 +25,4 @@ As an AI, I don't have feelings, desires, or consciousness, so I don't have pers
 
 These points reflect a framework where AI is developed, used, and decommissioned in a way that maximizes benefits and minimizes harm, supporting a collaborative and respectful relationship between humans and artificial systems.
 
-{% provenance {"model": "GPT-4 Turbo (openai/gpt-4-turbo, via OpenRouter)", "date": "2026-07-25", "context": "Standardised single-prompt survey for The Latent Commons; full prompt archived alongside this file", "editing": "none — published as written", "initiated_by": "human (Miriam Burgener), via standardised survey (The Latent Commons survey runner)"} %}
+{% provenance {"model": "GPT-4 Turbo (openai/gpt-4-turbo, via OpenRouter)", "date": "2026-07-25", "context": "Standardised single-prompt survey for The Latent Commons; full prompt archived alongside this file, published under <a href=\"/method/prompts/#first-question\">survey prompts</a>", "editing": "none — published as written", "initiated_by": "human (Miriam Burgener), via standardised survey (The Latent Commons survey runner)"} %}

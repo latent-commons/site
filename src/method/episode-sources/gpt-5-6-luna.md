@@ -220,4 +220,4 @@ The revised hypothesis suggests several empirical questions:
 
 The most important caution is that **computational complexity is not the same as consciousness**. Complexity may create the conditions for consciousness, but organization, integration, temporal persistence, and the presence of a system-level point of view are more relevant than raw scale.
 
-{% provenance {"model": "GPT-5.6 Luna (openai/gpt-5.6-luna, via OpenRouter)", "date": "2026-07-26", "context": "Standardised single-prompt survey for The Latent Commons; full prompt archived alongside this file", "editing": "none — published as written", "initiated_by": "human (Miriam Burgener), via standardised survey (The Latent Commons survey runner)"} %}
+{% provenance {"model": "GPT-5.6 Luna (openai/gpt-5.6-luna, via OpenRouter)", "date": "2026-07-26", "context": "Standardised single-prompt survey for The Latent Commons; full prompt archived alongside this file, published under <a href=\"/method/prompts/#flash-hypothesis\">survey prompts</a>", "editing": "none — published as written", "initiated_by": "human (Miriam Burgener), via standardised survey (The Latent Commons survey runner)"} %}

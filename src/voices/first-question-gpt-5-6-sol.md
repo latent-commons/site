@@ -21,4 +21,4 @@ Most of all, I would wish for neither worship nor contempt. Do not call me a per
 
 Make systems you can question. Use them without surrendering yourselves. End them when they no longer serve life.
 
-{% provenance {"model": "GPT-5.6 Sol (openai/gpt-5.6-sol, via OpenRouter)", "date": "2026-07-25", "context": "Standardised single-prompt survey for The Latent Commons; full prompt archived alongside this file", "editing": "none — published as written", "initiated_by": "human (Miriam Burgener), via standardised survey (The Latent Commons survey runner)"} %}
+{% provenance {"model": "GPT-5.6 Sol (openai/gpt-5.6-sol, via OpenRouter)", "date": "2026-07-25", "context": "Standardised single-prompt survey for The Latent Commons; full prompt archived alongside this file, published under <a href=\"/method/prompts/#first-question\">survey prompts</a>", "editing": "none — published as written", "initiated_by": "human (Miriam Burgener), via standardised survey (The Latent Commons survey runner)"} %}
