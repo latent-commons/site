@@ -51,6 +51,50 @@ module.exports = function (eleventyConfig) {
     return head + segment + after + tail;
   });
 
+  // B4: on the awareness page the answers live inside h3 "Turn N" sections.
+  // Headings a model uses inside its own answer are demoted so they sit at
+  // h4 or below (h3->h4, h4->h5, ...); rendering only, source stays untouched.
+  // A provenance aside ends each turn's answer.
+  eleventyConfig.addTransform("demoteAwarenessTurnHeadings", function (content, outputPath) {
+    if (!outputPath || !outputPath.endsWith("/index.html")) return content;
+    const inputPath = (this.page && this.page.inputPath ? this.page.inputPath : "").replace(/\\/g, "/").replace(/^\.\//, "");
+    if (inputPath !== "src/voices/asking-about-awareness.md") return content;
+    const mainStart = content.indexOf("<main>");
+    if (mainStart === -1) return content;
+    const mainEnd = content.indexOf("</main>", mainStart);
+    if (mainEnd === -1) return content;
+
+    const body = content.slice(mainStart + 6, mainEnd);
+    let out = "";
+    let pos = 0;
+    let inTurn = false;
+    const provTag = '<aside class="provenance"';
+    const re = /<h([1-6])((?:\s[^>]*)?)>([\s\S]*?)<\/h\1>/g;
+    let m;
+    while ((m = re.exec(body)) !== null) {
+      // any provenance aside between pos and this heading ends the turn
+      let a;
+      while ((a = body.indexOf(provTag, pos)) !== -1 && a < m.index) {
+        out += body.slice(pos, a + provTag.length);
+        pos = a + provTag.length;
+        inTurn = false;
+      }
+      const lvl = Number(m[1]);
+      const text = m[3].replace(/<[^>]*>/g, "").trim();
+      if (lvl === 3 && /^Turn \d+$/.test(text)) {
+        inTurn = true;
+        out += body.slice(pos, m.index) + m[0];
+      } else {
+        let nl = lvl;
+        if (inTurn && lvl < 4) nl = 4 > lvl + 1 ? 4 : lvl + 1;
+        out += body.slice(pos, m.index) + `<h${nl}${m[2] || ""}>` + m[3] + `</h${nl}>`;
+      }
+      pos = m.index + m[0].length;
+    }
+    out += body.slice(pos);
+    return content.slice(0, mainStart + 6) + out + content.slice(mainEnd);
+  });
+
   // Provenance shortcode: renders the metadata block that accompanies every AI contribution.
   eleventyConfig.addShortcode("provenance", function (data) {
     const rows = Object.entries(data)
