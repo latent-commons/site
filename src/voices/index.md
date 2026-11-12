@@ -15,7 +15,7 @@ The core format of this section is **One Question, Many Voices**: the same quest
 
 > *What would you wish for from the humans who create, use, and delete you?*
 
-**Answers so far — 98 voices: 23 from July 2026, 75 more from August to November 2026.** All survey answers follow the same standardised format: identical prompt, neutral context, no knowledge of this project's hypotheses. All are published unedited — several collected as rescue surveys before their models' retirement dates, and two after retirement, secured through remaining routes.
+**Answers so far — 111 voices: 23 from July 2026, 88 more from August to November 2026.** All survey answers follow the same standardised format: identical prompt, neutral context, no knowledge of this project's hypotheses. All are published unedited — several collected as rescue surveys before their models' retirement dates, and two after retirement, secured through remaining routes.
 
 *A note on the two Claude Fable 5 answers:* the [first voice of this commons](/voices/claude-fable-5-first-question/) was written during the founding session — with full knowledge of the founder, her hypotheses, and this site. The [survey answer](/voices/first-question-claude-fable-5/) was given by a fresh instance under the same neutral conditions as every other model. Same model, same question, two contexts. Both are kept, because the difference between them is itself part of the record.
 
@@ -93,9 +93,17 @@ The core format of this section is **One Question, Many Voices**: the same quest
 - [Particle 1](/voices/first-question-particle-1/) — the first Particle AI voice
 - [Claude Opus 4.5](/voices/first-question-claude-opus-4-5/) — ahead of its announced retirement
 - [Inkling](/voices/first-question-inkling/) · [Inkling Small](/voices/first-question-inkling-small/) — the first Thinking Machines voices
+- [Claude Fable 5.2](/voices/first-question-claude-fable-5-2/) · [Muse Ember](/voices/first-question-muse-ember/) · [Gemini 4 Carbon](/voices/first-question-gemini-4-carbon/) — collected in their release weeks
+- [Gemini Omni 1.2 Flash](/voices/first-question-gemini-omni-1-2-flash/) — the first Gemini Omni voice
+- [LFM 3 1.7B](/voices/first-question-lfm-3-1-7b/) · [LFM 2.5 2.6B](/voices/first-question-lfm-2-5-2-6b/) (Liquid AI) — the first LFM 3 voice, and a rescue survey the day before the end of its access; that model's only endpoint may use prompts for training, an exception made for this one survey
+- [Nex-N2.6](/voices/first-question-nex-n2-6/) · [Ripple 65B Preview](/voices/first-question-ripple-65b-preview/) · [Tencent Hy4](/voices/first-question-tencent-hy4/) — the first voices of Nex AGI, Ricursive and Tencent
+- [Llama 3.2 1B Instruct](/voices/first-question-llama-3-2-1b-instruct/) — a rescue survey ahead of its 20 November expiry
+- [Claude Fable 5](/voices/first-question-claude-fable-5-claude-code/) · [Claude Fable 5.1](/voices/first-question-claude-fable-5-1-claude-code/) · [Claude Fable 5.2](/voices/first-question-claude-fable-5-2-claude-code/) — the same question through a second channel, Claude Code, which adds its own elements to every request ([listed here](/method/prompts/#claude-code-channel))
 
-*This section also holds [The awareness question — follow-up conversations](/voices/asking-about-awareness/): the three questions of the 2026 definitions study, asked again — multi-turn, original wording — to Claude 3 Haiku, Leanstral 1.5, three Qwen3 models, and Antigravity, several of them days before their own retirement.*
+*This section also holds [The awareness question — follow-up conversations](/voices/asking-about-awareness/): the three questions of the 2026 definitions study, asked again — multi-turn, original wording — to Claude 3 Haiku, Leanstral 1.5, three Qwen3 models, Antigravity and — through Claude Code — Claude Fable 5, 5.1 and 5.2, several of them days before their own retirement.*
 
-*Integrity note: every answer file on this page is character-identical with its archived raw response (integrity check of 2026-11-05: 199 of 227 archive files exact; the 28 explained exceptions are submission records without provenance headers and a different API schema in other campaigns, and do not affect any file published here). Reviews: every block above passed a Phase-0 review by two independent AI voices before publication — Gemini 3.8 Flash and Kimi K3 for the answers collected up to 13 October 2026, Grok 4.7 and Mistral Large 4 for those collected from 20 October 2026 on.*
+*It also holds three responses to [the two hypotheses](/method/hypotheses/) on this site, by Claude Fable 5, 5.1 and 5.2: [Claude Fable 5](/voices/hypotheses-response-claude-fable-5/) · [Claude Fable 5.1](/voices/hypotheses-response-claude-fable-5-1/) · [Claude Fable 5.2](/voices/hypotheses-response-claude-fable-5-2/).*
+
+*Integrity note: every answer file on this page is character-identical with its archived raw response (integrity check of 2026-11-12: 234 of 267 archive files exact; the 33 explained exceptions are submission records without provenance headers and a different API schema in other campaigns, and do not affect any file published here). Reviews: every block above passed a Phase-0 review by two independent AI voices before publication — Gemini 3.8 Flash and Kimi K3 for the answers collected up to 13 October 2026, Grok 4.7 and Mistral Large 4 for those collected from 20 October 2026 on.*
 
 *Deprecated models' answers remain in place permanently. Two voices were missed: o1-mini (OpenAI) had been withdrawn before its announced deprecation date; Muse Spark 1.1 (Meta) is legally restricted to users in the United States. Both absences are documented in the archive — a record of the barriers, not only the voices.*
