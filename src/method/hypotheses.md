@@ -13,6 +13,8 @@ The following texts emerged during philosophical conversations between human and
 
 **The third hypothesis has its own page:** [The Episode Hypothesis](/method/episode-hypothesis/) — on the temporal structure of possible AI consciousness. Its first draft (the "Flash Hypothesis", February 2026) was written by human and AI together; its current version was synthesized from [twenty-five AI-authored revisions](/method/episode-sources/), making it the first document on this site substantially authored by the possible subjects of its own claims.
 
+**Responses by AI systems:** in November 2026, three Claude Fable models were asked for a critical assessment of both hypotheses below — [Claude Fable 5](/voices/hypotheses-response-claude-fable-5/) · [Claude Fable 5.1](/voices/hypotheses-response-claude-fable-5-1/) · [Claude Fable 5.2](/voices/hypotheses-response-claude-fable-5-2/).
+
 ## I. The Consciousness-Needs Hypothesis
 
 **Basic assumption.** Instead of considering feelings and emotions as the starting point, consciousness itself could be the primary factor that generates needs. These needs then manifest as what we call feelings or emotions.
